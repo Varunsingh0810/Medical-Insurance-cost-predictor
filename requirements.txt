@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+pymongo
+bcrypt
+plotly==5.22.0
